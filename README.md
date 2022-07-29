@@ -1,9 +1,7 @@
 [![GitHub CI](https://github.com/williamboman/mason.nvim/workflows/Tests/badge.svg)](https://github.com/williamboman/mason.nvim/actions?query=workflow%3ATests+branch%3Amain+event%3Apush)
 ![Platforms](https://img.shields.io/badge/platform-linux%20macOS%20windows-blue)
 ![Repository size](https://img.shields.io/github/repo-size/williamboman/mason.nvim)
-[![Sponsors](https://img.shields.io/github/sponsors/williamboman?style=flat-square)](https://github.com/sponsors/williamboman)
-
-<img src="https://user-images.githubusercontent.com/6705160/177613416-0c0354d2-f431-40d8-87f0-21310f0bba0e.png" alt="mason.nvim" />
+-
 
 <p align="center">
     Portable package manager for Neovim that runs everywhere Neovim runs.<br />
